@@ -4,4 +4,4 @@ F2F meeting of the XProc 3.0 specification volunteers (or of the [XProc Next Com
 
 **Thanks to everyone making this a very successful meeting!**
 
-Next meeting: Feb. 6th and 7th 2018 just before [XML Prague 2018](http://http://www.xmlprague.cz). Hope to see you all there!
+Next meeting: Feb. 6th and 7th 2018 just before [XML Prague 2018](http://www.xmlprague.cz). Hope to see you all there!
